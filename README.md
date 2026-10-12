@@ -2,7 +2,7 @@
 
 Prototype de tableau de bord pour suivre l'état sanitaire de massifs forestiers : alertes de dépérissement détectées par satellite, surfaces touchées, essences, carte des parcelles.
 
-**Démo en ligne :** [romcro.github.io/Romcro/demo-foret](https://romcro.github.io/Romcro/demo-foret/), sur des données entièrement fictives.
+**Démo en ligne :** [romcro.github.io/dashboard-vue](https://romcro.github.io/dashboard-vue/), sur des données entièrement fictives.
 
 ## Fonctionnalités
 
